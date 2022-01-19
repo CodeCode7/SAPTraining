@@ -1,0 +1,14 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Wed Jan 19 08:14:33 UTC 2022
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=BasicAuthentication
+WebIDEUsage=odata_abap
+Name=ES5
+WebIDEEnabled=true
+ProxyType=Internet
+URL=https\://sapes5.sapdevcenter.com
+sap-client=002
+User=D052537
+WebIDESystem=ES5

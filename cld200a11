@@ -1,0 +1,7 @@
+#
+#Wed Jan 19 08:13:31 UTC 2022
+URL=https\://businesspartner-odata-mock-server-cheerful-fossa.cfapps.eu10.hana.ondemand.com
+Name=cld200a11
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication

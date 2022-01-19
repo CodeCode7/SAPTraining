@@ -1,0 +1,15 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Wed Jan 19 08:14:14 UTC 2022
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=BasicAuthentication
+WebIDEUsage=odata_abap
+Name=A00
+WebIDEEnabled=true
+CloudConnectorLocationId=cld200
+ProxyType=OnPremise
+URL=http\://a00.virtual\:8000
+sap-client=100
+User=TRAIN_00_BP_API_IB_USER
+WebIDESystem=A00
